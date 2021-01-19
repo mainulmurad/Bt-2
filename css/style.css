@@ -1,0 +1,16 @@
+body{
+    margin: 0px;
+    padding:0px;
+}
+.progressbar{
+    margin-bottom: 10px;
+}
+.pagination{
+    margin-top: 20px;
+}
+.text-center{
+    margin-bottom: 20px;
+}
+.carousel-inner{
+margin-top: 50px;
+}
